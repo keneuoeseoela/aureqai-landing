@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /mailto  # This blocks any URL containing '/mailto' from being crawled
+
+Sitemap: https://aureqai.info/sitemap.xml
