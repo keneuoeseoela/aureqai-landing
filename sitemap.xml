@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <!-- Your main homepage URL. Update the <loc> if you ever add a trailing slash -->
     <loc>https://aureqai.info/</loc>
-    <lastmod>2024-04-17</lastmod> <!-- Update this date whenever you make significant changes to the site -->
-    <changefreq>monthly</changefreq> <!-- How often the page is likely to change -->
-    <priority>1.0</priority> <!-- Importance relative to other pages on your site (1.0 is highest) -->
+    <lastmod>2024-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
-  <!-- Add a new <url> entry here for each new page you create in the future -->
 </urlset>
+
 
